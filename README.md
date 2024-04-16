@@ -2,7 +2,7 @@
 
 This python script requires two input files: 
 1) The gene target list in .txt format: It can be exported from canonical pathway tab in IPA. It can also be a user-generated file, and must have at least one column named "Symbol" that has gene names. Please see "ExampleIPAexport_RegulationOfApoptosis.txt" for format.
-2) DIA output in .tsv format either from DIA-NN (v. 1.8.1) or TIMS DIA-NN.
+2) DIA output in .tsv format either from DIA-NN (v. 1.8.1) or TIMS DIA-NN. For regulation of apoptosis pathway example used to test script, please use HeLa45mDIA.tsv file that can be downloaded from PRIDE (PXD049405).
 
 To run the script, 
 - the user must have python3 installed along with Pandas and Numpy libraries.
