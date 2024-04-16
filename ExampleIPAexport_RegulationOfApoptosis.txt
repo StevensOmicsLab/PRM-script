@@ -1,0 +1,44 @@
+© 2000-2023 QIAGEN. All rights reserved.											
+											
+Symbol	Entrez Gene Name	GenPept/UniProt/Swiss-Prot Accession/Ensembl/Entrez Gene/GenBank/Gene Symbol - human (HUGO / HGNC / Entrez Gene)/Gene Symbol - mouse (Entrez Gene)/Gene Symbol - rat (Entrez Gene)/GenPept/Ingenuity/International Protein Index/UniGene/UniProt/Swiss-Prot Accession/Ensembl/Entrez Gene/GenBank/Gene Symbol - human (HUGO / HGNC / Entrez Gene)/Gene Symbol - mouse (Entrez Gene)/Gene Symbol - rat (Entrez Gene)/GenPept/Ingenuity/International Protein Index/UniGene/UniProt/Swiss-Prot Accession	Expr Intensity/RPKM/FPKM/Counts	Expected	Location	Type(s)	Biomarker Application(s)	Drug(s)	Entrez Gene ID for Human	Entrez Gene ID for Mouse	Entrez Gene ID for Rat
+OPA1	OPA1 mitochondrial dynamin like GTPase	O60313	55108.833	Up	Cytoplasm	enzyme			4976	74143	171116
+PAK2	p21 (RAC1) activated kinase 2	Q13177	90975.167	Up	Cytoplasm	kinase		"FRAX-1036,FRAX-597,FRAX120,FRAX355,FRAX486"	5062	224105	29432
+PSMA1	proteasome 20S subunit alpha 1	P25786	376708.333	Up	Cytoplasm	peptidase			5682	26440	29668
+PSMA2	proteasome 20S subunit alpha 2	P25787	128114.333	Up	Cytoplasm	peptidase	unspecified application		5683	19166	29669
+PSMA3	proteasome 20S subunit alpha 3	P25788	153417.667	Up	Cytoplasm	peptidase			5684	19167	29670
+PSMA4	proteasome 20S subunit alpha 4	P25789	248892.333	Up	Cytoplasm	peptidase			5685	26441	29671
+PSMA5	proteasome 20S subunit alpha 5	P28066	210000	Up	Cytoplasm	peptidase			5686	26442	29672
+PSMA6	proteasome 20S subunit alpha 6	P60900	215303	Up	Cytoplasm	peptidase			5687	26443	29673
+PSMA7	proteasome 20S subunit alpha 7	O14818	231375	Up	Cytoplasm	peptidase			5688	26444	29674
+PSMB1	proteasome 20S subunit beta 1	P20618	169857	Up	Cytoplasm	peptidase		"bortezomib,bortezomib/cladribine/rituximab,bortezomib/dexamethasone,bortezomib/dexamethasone/doxorubicin,bortezomib/dexamethasone/lenalidomide,bortezomib/dexamethasone/pomalidomide,bortezomib/dexamethasone/rituximab,bortezomib/dexamethasone/thalidomide,bortezomib/doxorubicin,bortezomib/fulvestrant,bortezomib/lenalidomide,bortezomib/paclitaxel,bortezomib/prednisone,bortezomib/rituximab,bortezomib/sorafenib,bortezomib/thalidomide,bortezomib/vorinostat,carfilzomib,carfilzomib/dexamethasone,carfilzomib/dexamethasone/lenalidomide,carfilzomib/dexamethasone/rituximab"	5689	19170	94198
+PSMB2	proteasome 20S subunit beta 2	P49721	144137	Up	Cytoplasm	peptidase		"bortezomib,bortezomib/cladribine/rituximab,bortezomib/dexamethasone,bortezomib/dexamethasone/doxorubicin,bortezomib/dexamethasone/lenalidomide,bortezomib/dexamethasone/pomalidomide,bortezomib/dexamethasone/rituximab,bortezomib/dexamethasone/thalidomide,bortezomib/doxorubicin,bortezomib/fulvestrant,bortezomib/lenalidomide,bortezomib/paclitaxel,bortezomib/prednisone,bortezomib/rituximab,bortezomib/sorafenib,bortezomib/thalidomide,bortezomib/vorinostat,carfilzomib,carfilzomib/dexamethasone,carfilzomib/dexamethasone/lenalidomide,carfilzomib/dexamethasone/rituximab"	5690	26445	29675
+PSMB3	proteasome 20S subunit beta 3	P49720	135860	Up	Cytoplasm	peptidase			5691	26446	29676
+PSMB4	proteasome 20S subunit beta 4	P28070	156187	Up	Cytoplasm	peptidase			5692	19172	58854
+PSMB5	proteasome 20S subunit beta 5	P28074	111264.333	Up	Cytoplasm	peptidase		"bortezomib,bortezomib/cladribine/rituximab,bortezomib/dexamethasone,bortezomib/dexamethasone/doxorubicin,bortezomib/dexamethasone/lenalidomide,bortezomib/dexamethasone/pomalidomide,bortezomib/dexamethasone/rituximab,bortezomib/dexamethasone/thalidomide,bortezomib/doxorubicin,bortezomib/fulvestrant,bortezomib/lenalidomide,bortezomib/paclitaxel,bortezomib/prednisone,bortezomib/rituximab,bortezomib/sorafenib,bortezomib/thalidomide,bortezomib/vorinostat,carfilzomib,carfilzomib/dexamethasone,carfilzomib/dexamethasone/lenalidomide,carfilzomib/dexamethasone/rituximab,dexamethasone/ixazomib/lenalidomide,dexamethasone/ixazomib/pomalidomide,dexamethasone/ixazomib/rituximab,ixazomib"	5693	19173	29425
+PSMB6	proteasome 20S subunit beta 6	P28072	176555.667	Up	Nucleus	peptidase			5694	19175	 
+PSMB7	proteasome 20S subunit beta 7	Q99436	104045	Up	Cytoplasm	peptidase			5695	19177	85492
+PSMB8	proteasome 20S subunit beta 8	P28062	55550.033	Up	Cytoplasm	peptidase		"carfilzomib,carfilzomib/dexamethasone,carfilzomib/dexamethasone/lenalidomide,carfilzomib/dexamethasone/rituximab,M3258"	5696	16913	24968
+PSMC1	"proteasome 26S subunit, ATPase 1"	P62191	117175.333	Up	Nucleus	peptidase			5700	19179	117263
+PSMC2	"proteasome 26S subunit, ATPase 2"	P35998	120267.333	Up	Nucleus	peptidase			5701	19181	25581
+PSMC3	"proteasome 26S subunit, ATPase 3"	P17980	187326	Up	Nucleus	enzyme			5702	19182	29677
+PSMC4	"proteasome 26S subunit, ATPase 4"	P43686	87004.167	Up	Nucleus	peptidase			5704	23996	117262
+PSMC5	"proteasome 26S subunit, ATPase 5"	P62195	158911.333	Up	Nucleus	transcription regulator			5705	19184	81827
+PSMC6	"proteasome 26S subunit, ATPase 6"	P62333	137394.667	Up	Nucleus	peptidase			5706	67089	289990
+PSMD1	"proteasome 26S subunit, non-ATPase 1"	Q99460	96320.233	Up	Cytoplasm	other		"bortezomib,bortezomib/cladribine/rituximab,bortezomib/dexamethasone,bortezomib/dexamethasone/doxorubicin,bortezomib/dexamethasone/lenalidomide,bortezomib/dexamethasone/pomalidomide,bortezomib/dexamethasone/rituximab,bortezomib/dexamethasone/thalidomide,bortezomib/doxorubicin,bortezomib/fulvestrant,bortezomib/lenalidomide,bortezomib/paclitaxel,bortezomib/prednisone,bortezomib/rituximab,bortezomib/sorafenib,bortezomib/thalidomide,bortezomib/vorinostat"	5707	70247	83806
+PSMD2	"proteasome 26S subunit ubiquitin receptor, non-ATPase 2"	Q13200	128696	Up	Cytoplasm	other		"bortezomib,bortezomib/cladribine/rituximab,bortezomib/dexamethasone,bortezomib/dexamethasone/doxorubicin,bortezomib/dexamethasone/lenalidomide,bortezomib/dexamethasone/pomalidomide,bortezomib/dexamethasone/rituximab,bortezomib/dexamethasone/thalidomide,bortezomib/doxorubicin,bortezomib/fulvestrant,bortezomib/lenalidomide,bortezomib/paclitaxel,bortezomib/prednisone,bortezomib/rituximab,bortezomib/sorafenib,bortezomib/thalidomide,bortezomib/vorinostat"	5708	21762	287984
+PSMD3	"proteasome 26S subunit, non-ATPase 3"	O43242	131770.333	Up	Cytoplasm	other			5709	22123	287670
+PSMD4	"proteasome 26S subunit ubiquitin receptor, non-ATPase 4"	P55036	86173.4	Up	Cytoplasm	other	"diagnosis,disease progression"		5710	19185	83499
+PSMD5	"proteasome 26S subunit, non-ATPase 5"	Q16401	127647.667	Up	Cytoplasm	other			5711	66998	296651
+PSMD6	"proteasome 26S subunit, non-ATPase 6"	Q15008	115068.667	Up	Cytoplasm	enzyme			9861	66413	289924
+PSMD7	"proteasome 26S subunit, non-ATPase 7"	P51665	71620.9	Up	Cytoplasm	other			5713	17463	307821
+PSMD8	"proteasome 26S subunit, non-ATPase 8"	P48556	98138.5	Up	Cytoplasm	other			5714	57296	292766
+PSMD9	"proteasome 26S subunit, non-ATPase 9"	O00233	63688.567	Up	Cytoplasm	transcription regulator			5715	67151	161475
+PSMD11	"proteasome 26S subunit, non-ATPase 11"	O00231	96975.533	Up	Cytoplasm	other			5717	69077	303353
+PSMD12	"proteasome 26S subunit, non-ATPase 12"	O00232	78810.067	Up	Cytoplasm	other			5718	66997	287772
+PSMD13	"proteasome 26S subunit, non-ATPase 13"	Q9UNM6	140021.667	Up	Cytoplasm	peptidase			5719	23997	365388
+PSMD14	"proteasome 26S subunit, non-ATPase 14"	O00487	90914	Up	Cytoplasm	peptidase			10213	59029	311078
+PSME1	proteasome activator subunit 1	Q06323	317457	Up	Cytoplasm	other			5720	19186	29630
+PSME2	proteasome activator subunit 2	Q9UL46	118173.333	Up	Cytoplasm	peptidase			5721	19188	29614|100362709
+PSME3	proteasome activator subunit 3	P61289	143117.667	Up	Cytoplasm	peptidase			10197	19192	287716
+RPS27A	ribosomal protein S27a	P62979	228347.333	Up	Cytoplasm	other			6233	78294	100912032
+UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	P62987	1696966.667	Up	Cytoplasm	enzyme			7311	665964	 
