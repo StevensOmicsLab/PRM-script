@@ -1,7 +1,7 @@
 # PRM-PASEF
 
 This python script requires two input files: 
-1) The gene target list in .txt format: It can be exported from IPA. It can also be a user-generated file, and must have at least one column named "Symbol" that has gene names.
+1) The gene target list in .txt format: It can be exported from canonical pathway tab in IPA. It can also be a user-generated file, and must have at least one column named "Symbol" that has gene names. Please see "ExampleIPAexport_RegulationOfApoptosis.txt" for format.
 2) DIA output in .tsv format either from DIA-NN (v. 1.8.1) or TIMS DIA-NN.
 
 To run the script, 
